@@ -1,0 +1,9 @@
+[submodule "S401javaSpringIntroduction"]
+	path = S401javaSpringIntroduction
+	url = https://github.com/FlavioKde/S401javaSpringIntroduction.git
+[submodule "S401javaSpringIntroductionGradle"]
+	path = S401javaSpringIntroductionGradle
+	url = https://github.com/FlavioKde/S401javaSpringIntroductionGradle.git
+[submodule "S401javaSpringIntroductionPostman"]
+	path = S401javaSpringIntroductionPostman
+	url = https://github.com/FlavioKde/S401javaSpringIntroductionPostman.git
