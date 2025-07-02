@@ -6,7 +6,8 @@ Welcome to this modular monorepo containing multiple Spring Boot projects and Po
 
 ## 📂 Project Structure
 
-```plaintext
+## plaintext
+
 proyecto-principal/
 ├── proyecto-maven/     → Spring Boot REST API using Maven
 ├── proyecto-gradle/    → Spring Boot REST API using Gradle
@@ -36,7 +37,7 @@ make build-maven # Just Maven project
 make build-gradle # Just Gradle project
 make test-postman # Run Postman tests (via Newman)
 
-🧾 Requirements
+## 🧾 Requirements
 
 ✅ Java 11+
 
@@ -46,7 +47,7 @@ make test-postman # Run Postman tests (via Newman)
 
 ✅ Git (with submodule support)
 
-📦 Goals of this Repository
+## 📦 Goals of this Repository
 
 👨‍🔧 Practice building REST APIs with different dependency managers
 
@@ -56,5 +57,7 @@ make test-postman # Run Postman tests (via Newman)
 
 🔁 Reuse workflows across multiple technology stacks
 
-👤 Author
+## 👤 Author
 Flavio – Created as part of the IT Academy’s backend development curriculum 📅 2025 📘 
+
+
