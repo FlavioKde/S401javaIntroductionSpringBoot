@@ -6,12 +6,14 @@ Welcome to this modular monorepo containing multiple Spring Boot projects and Po
 
 ## 📂 Project Structure
 
-## plaintext
+``` plaintext
 
 S401javaIntroductionSpringBoot/
 ├── proyecto-maven/     → Spring Boot REST API using Maven
 ├── proyecto-gradle/    → Spring Boot REST API using Gradle
 └── postman-tests/      → Postman environments and screenshots
+
+```
 📌 Subproject Index
 🧪 proyecto-maven Spring Boot project built with Maven (port 9000)
 
