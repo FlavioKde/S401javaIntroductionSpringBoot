@@ -9,9 +9,9 @@ Welcome to this modular monorepo containing multiple Spring Boot projects and Po
 ``` plaintext
 
 S401javaIntroductionSpringBoot/
-├── proyecto-maven/     → Spring Boot REST API using Maven
-├── proyecto-gradle/    → Spring Boot REST API using Gradle
-└── postman-tests/      → Postman environments and screenshots
+├── S401javaSpringIntroduction/     → Spring Boot REST API using Maven
+├── S401javaSptringIntroductionGradle/    → Spring Boot REST API using Gradle
+└── S401JavaSpringIntroductionPostman/      → Postman environments and screenshots
 
 ```
 📌 Subproject Index
