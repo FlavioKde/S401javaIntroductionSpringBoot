@@ -8,7 +8,7 @@ Welcome to this modular monorepo containing multiple Spring Boot projects and Po
 
 ## plaintext
 
-proyecto-principal/
+S401javaIntroductionSpringBoot/
 ├── proyecto-maven/     → Spring Boot REST API using Maven
 ├── proyecto-gradle/    → Spring Boot REST API using Gradle
 └── postman-tests/      → Postman environments and screenshots
@@ -39,7 +39,7 @@ make test-postman # Run Postman tests (via Newman)
 
 ## 🧾 Requirements
 
-✅ Java 11+
+✅ Java 19+
 
 ✅ Maven or Gradle
 
